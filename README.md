@@ -1,5 +1,7 @@
 # Falcon-9-Space-x-Prediction
 
+![Designer (58)](https://github.com/rkk96/Capstone-project/assets/166745361/45cae638-b6b1-4672-bcf3-3bb5d3f6096e)
+
 #In this project, we are finding a way why SpaceX's Falcon model is highly successful and the things that help them to be more successful. 🚀
 
 🚀 **Project Odyssey: Unraveling SpaceX's Success** 🌟
@@ -27,6 +29,5 @@ In the cosmic crucible, we forged insights. SpaceX's triumphs were woven from bo
 🌎 **Final Orbit**:
 As our starship docks, we leave behind a legacy—a beacon for future explorers. The universe, ever expanding, awaits new odysseys. 🌌🔭
 
-![Designer (58)](https://github.com/rkk96/Capstone-project/assets/166745361/45cae638-b6b1-4672-bcf3-3bb5d3f6096e)
 
 
